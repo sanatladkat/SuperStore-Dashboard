@@ -6,7 +6,6 @@ This repository contains a PowerBI dashboard analyzing sales data. The dataset p
 
 ## Dashboard Preview
 
-![Dashboard Preview]
 <img src="dashboard/DB1.PNG"/>
 <img src="dashboard/DB2.PNG"/>
 
